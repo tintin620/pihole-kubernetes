@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.29.2](https://github.com/tintin620/pihole-kubernetes/compare/pihole-2.29.1...pihole-2.29.2) (2025-03-10)
+
+
+### Bug Fixes
+
+* webserver ports ([6561ff2](https://github.com/tintin620/pihole-kubernetes/commit/6561ff2884a87795819538017defc7b303a51ba4))
+* workflow tokens ([8f00a64](https://github.com/tintin620/pihole-kubernetes/commit/8f00a6465ba77c3d25e308e37c6263de8b21bcb7))
+* workflows ([8f00a64](https://github.com/tintin620/pihole-kubernetes/commit/8f00a6465ba77c3d25e308e37c6263de8b21bcb7))
+
 ## [2.29.1](https://github.com/MoJo2600/pihole-kubernetes/compare/pihole-2.29.0...pihole-2.29.1) (2025-03-08)
 
 
