@@ -23,4 +23,4 @@ jobs:
             test
           requireScope: false
         env:
-          GITHUB_TOKEN: ${{ secrets.CR_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
