@@ -29,7 +29,7 @@ jobs:
         name: 🙌 Prepare release
         id: release-please
         with:
-          token: ${{ secrets.CR_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 🐛 Dump Release Please Output
         env:
@@ -126,5 +126,5 @@ jobs:
         run: |
           owner=$(cut -d '/' -f 1 <<< "$GITHUB_REPOSITORY")
           repo=$(cut -d '/' -f 2 <<< "$GITHUB_REPOSITORY")
-          args=(-o "$owner" -r "$repo" --push -t "${{ secrets.CR_TOKEN }}" --index-path .)          
+          args=(-o "$owner" -r "$repo" --push -t "${{ secrets.GITHUB_TOKEN }}" --index-path .)          
           .tmp/cr index "${args[@]}"
