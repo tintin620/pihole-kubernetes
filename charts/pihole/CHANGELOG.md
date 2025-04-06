@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.29.3](https://github.com/tintin620/pihole-kubernetes/compare/pihole-2.29.2...pihole-2.29.3) (2025-04-06)
+
+
+### Bug Fixes
+
+* release ([cb40760](https://github.com/tintin620/pihole-kubernetes/commit/cb407603b794806c07aaa03dbce58fd3c4e54074))
+* release ([cb40760](https://github.com/tintin620/pihole-kubernetes/commit/cb407603b794806c07aaa03dbce58fd3c4e54074))
+* release ([6390708](https://github.com/tintin620/pihole-kubernetes/commit/63907084fa563cf923bbc472c2064c14e6308ba1))
+
 ## [2.29.2](https://github.com/tintin620/pihole-kubernetes/compare/pihole-2.29.1...pihole-2.29.2) (2025-03-10)
 
 
