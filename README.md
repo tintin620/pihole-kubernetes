@@ -149,4 +149,4 @@ Thanks goes to these wonderful people:
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
-small change, so I can create a new release while waiting for main pull-requires
+small change, so I can create a new release while waiting for main pull-requiest
